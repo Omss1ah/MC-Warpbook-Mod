@@ -15,7 +15,7 @@ warpbook.booktooltip=%d/54 Seiten
 warpbook.name=Warp-Buch
 warpbook.bindmsg=Gebunden zur (%.0f, %.0f, %.0f) in der Dimension %d
 
-help.nopages=Es sind keine Warp-Seiten vorhanden.  Shift+right klick um gebundene Seiten hinzuzufügen!
+help.nopages=Es sind keine Warp-Seiten vorhanden. Shift+right klick um gebundene Seiten hinzuzufügen!
 help.nowaypointsfound=Keine Wegpunkte gefunden!
 help.noplayerspecified=Der Spielername muss angegeben werden!
 help.waypointdoesnotexist=Waypoint '%s' existiert nicht!
