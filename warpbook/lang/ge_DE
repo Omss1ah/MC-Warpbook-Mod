@@ -1,0 +1,29 @@
+item.warpbook.name=Warp-Buch
+item.warppage.unbound.name=Ungebundene Warp-Seite
+item.warppage.bound.name=Gebundene Warp-Seite
+item.warppage.hyperbound.name=Hyper Warp-Seite
+item.warppage.potato.name=Kartoffel-Seite
+item.warppage.player.name=Spieler-Seite
+item.warppage.deathly.name=Tödliche Warp-Seite
+
+itemGroup.tabWarpBook=Warp-Buch
+
+warpbook.dowarp=Warp zum Wegpunkt
+warpbook.bindpage=Seite binden
+warpbook.namewaypoint=Geben Sie den Wegpunktnamen ein
+warpbook.booktooltip=%d/54 Seiten
+warpbook.name=Warp-Buch
+warpbook.bindmsg=Gebunden zur (%.0f, %.0f, %.0f) in der Dimension %d
+
+help.nopages=Es sind keine Warp-Seiten vorhanden.  Shift+right klick um gebundene Seiten hinzuzufügen!
+help.nowaypointsfound=Keine Wegpunkte gefunden!
+help.noplayerspecified=Der Spielername muss angegeben werden!
+help.waypointdoesnotexist=Waypoint '%s' existiert nicht!
+help.waypointdelete=Gelöscht!
+help.notawaypoint='%s' ist kein Wegpunkt!
+help.waypointcreated=Wegpunkt erstellt.
+help.selfaport=Glückwunsch! Du hast dich gerade zu dir selbst teleportiert!
+help.potato.flavour1=Nutzt die unglaubliche Kraft, die in einer Kartoffel steckt.
+help.potato.flavour2=(kann einen Krater erzeugen oder auch nicht)
+
+death.attack.potato=%1$s wurde mit der Knollenenergie gebraten.
