@@ -1,0 +1,19 @@
+[
+{
+  "modid": "warpbook",
+  "name": "Warp Book",
+  "description": "A multipurpose teleporting mod that's high in fibre and low in calories",
+  "version": "2.0.36",
+  "mcversion": "1.7.10",
+  "url": "http://www.minecraftforum.net/topic/2266303-164-warp-book-mod/",
+  "updateUrl": "http://minecraft.curseforge.com/mc-mods/warp-book/",
+  "authorList": [
+    "panicnot42"
+  ],
+  "credits": "panicnot42 (Developer), FalcoTheGreat (French translation), sb023612 (Chinese translation), FreddyHair (Italian translation), puyo061 (Korean translation), krwminer (Testing)",
+  "logoFile": "assets/warpbook/logo.png",
+  "dependencies": [
+     "mod_MinecraftForge"
+  ]
+}
+]
